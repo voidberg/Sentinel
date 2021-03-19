@@ -1,0 +1,7 @@
+dome
+libwren.a
+**/.DS_Store
+*.swp
+*.gif
+release/
+*.dylib
