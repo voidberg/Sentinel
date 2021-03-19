@@ -1,0 +1,9 @@
+{
+  "execMap": {
+    "wren": "dome"
+  },
+  "events": {
+    "restart": "osascript -e 'display notification \"Game restarted due to:\n'$FILENAME'\" with title \"DOME\"'"
+  },
+  "ext": "wren,json"
+}
