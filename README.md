@@ -1,2 +1,2 @@
 # sentinel
-A game inspired by Paganiztu.
+A game inspired by Paganitzu.
